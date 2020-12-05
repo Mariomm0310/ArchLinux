@@ -1,0 +1,2 @@
+# ArchLinux
+Instalación de ArchLinux
